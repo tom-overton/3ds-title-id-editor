@@ -1,2 +1,2 @@
 # 3ds-title-id-editor
-A quick-and-dirty tool to edit the Title ID of NCCH and NCSD files
+This is an extremely simple program I made in response to [a request from the Universal Pokemon Randomizer ZX project](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/issues/103). All it does is let you change the title ID of NCCH (aka, .cxi) and NCSD (aka, .3ds) files. I offer literally no support for this outside of providing the source and the executable, so have fun!
